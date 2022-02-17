@@ -4,6 +4,10 @@ A fast multi-threaded file server that can handle user input and file operations
 The available file operations are `write`, `read`, and `empty`. This supports both absolute and relative
 path.
 
+## Preview
+
+(Program preview)[./images/preview "Program preview"]
+
 ## How to Build
 
 file_server.c is stable given the following (personal) environment:<br>
