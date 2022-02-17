@@ -1,0 +1,5 @@
+*
+!.gitignore
+!README.md
+!file_server.c
+!Makefile
