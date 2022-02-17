@@ -6,7 +6,7 @@ path.
 
 ## Preview
 
-![Program preview](./images/preview "Program preview")
+![Program preview](preview.png "Program preview")
 
 ## How to Build
 
