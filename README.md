@@ -43,7 +43,7 @@ file_server.c is stable given the following (personal) environment:<br>
  ```
  The cleared content is automatically stored in the file `empty.txt`.
  
- * Run multiple commands at once without concurrency issues:
+ * Run multiple commands in parallel without concurrency issues:
  ```
  write foo.txt
  read foo.txt
